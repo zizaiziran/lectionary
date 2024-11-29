@@ -19,7 +19,7 @@
     "advent-js": "^0.2.0",
     "hapi-swagger": "^14.1.1",
     "joi": "^17.4.0",
-    "moment": "^2.29.1",
+    "moment": "^2.29.4",
     "pug": "^3.0.2"
   },
   "devDependencies": {
